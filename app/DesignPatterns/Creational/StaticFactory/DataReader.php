@@ -1,6 +1,6 @@
 <?php
 
-namespace App\DesignPatterns\StaticFactory;
+namespace App\DesignPatterns\Creational\StaticFactory;
 
 interface DataReader
 {

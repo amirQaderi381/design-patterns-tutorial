@@ -1,6 +1,6 @@
 <?php
 
-namespace App\DesignPatterns\SimpleFactory;
+namespace App\DesignPatterns\Creational\SimpleFactory;
 
 class Client
 {

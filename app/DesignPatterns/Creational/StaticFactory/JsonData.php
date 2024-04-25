@@ -1,8 +1,6 @@
 <?php
 
-namespace App\DesignPatterns\StaticFactory;
-
-use App\DesignPatterns\StaticFactory\DataReader;
+namespace App\DesignPatterns\Creational\StaticFactory;
 
 class JsonData implements DataReader
 {

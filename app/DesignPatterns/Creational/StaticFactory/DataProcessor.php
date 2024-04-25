@@ -1,9 +1,8 @@
 <?php
 
-namespace App\DesignPatterns\StaticFactory;
+namespace App\DesignPatterns\Creational\StaticFactory;
 
 use http\Exception\InvalidArgumentException;
-use function Laravel\Prompts\error;
 
 class DataProcessor
 {
